@@ -18,6 +18,7 @@ import utils from '../utils/';
  */
 const Posts = ({ posts, pageControls, currentPage }) => (
     <Main>
+        <h1>Kawalya</h1>
         {(posts || []).map(post => (
             <PostPreview
                 key={post.id}

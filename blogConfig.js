@@ -8,9 +8,9 @@
  */
 export default {
     caasySDKConfig: {
-        siteId: '5f7cc20dc302c4fa0a961f8f'
+        siteId: '5f8b6da2b4beb7188dad7bd4'
     },
-    blogName: 'myBlog',
+    blogName: 'Edufa',
     defaultTitle: 'my personal tech blog',
     description: 'This blog showcases how to use Caasy and its official JS SDK. Please visit our website for more information. Caasy is developed and maintained by Mosaic.',
     // The default language is used to improve accessibility.
